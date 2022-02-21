@@ -1,0 +1,11 @@
+@misc{cryptoeprint:2021:1422,
+    author       = {Jan-Pieter D'Anvers and
+		    Daniel Heinz and
+		    Peter Pessl and
+		    Michiel van Beirendonck and
+		    Ingrid Verbauwhede},
+    title        = {Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography},
+    howpublished = {Cryptology ePrint Archive, Report 2021/1422},
+    year         = {2021},
+    note         = {\url{https://ia.cr/2021/1422}},
+}
