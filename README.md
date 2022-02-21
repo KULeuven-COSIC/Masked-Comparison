@@ -1,6 +1,6 @@
 # Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography
 
-This repository contains ARM Cortex-M4 code for higher-order masked ciphertext comparison for lattice-based cryptography. The implementations are described in our paper "Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography", Jan-Pieter D'Anvers, Daniel Heinz, Peter Pessl, Michiel van Beirendonck and Ingrid Verbauwhede [(ePrint 2021/1422)](https://eprint.iacr.org/2021/1422) that will appear in TCHES, Volume 2022, Issue 2.
+This repository contains ARM Cortex-M4 code for higher-order masked ciphertext comparison for lattice-based cryptography. The implementations are described in our paper "Higher-Order Masked Ciphertext Comparison for Lattice-Based Cryptography", Jan-Pieter D'Anvers, Daniel Heinz, Peter Pessl, Michiel van Beirendonck and Ingrid Verbauwhede [(ePrint 2021/1422)](https://eprint.iacr.org/2021/1422) that appeared in TCHES, Volume 2022, Issue 2 [(TCHES)](https://tches.iacr.org/index.php/TCHES/article/view/9483).
 
 ## Requirements
 
